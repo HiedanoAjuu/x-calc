@@ -78,8 +78,8 @@ def ifu():#菜单“使用说明”功能
 使用方法：不要告诉我你连计算器都不会用......
 注意事项：请不要犯一些常识性错误
           请不要输入得数太大的算式，否则程序会直接卡掉
-开发者：向璟宸
-联系方式：18551711071""",justify =  'left')
+开发者: 稗田阿柔
+联系方式：hiedanoajuu@outlook.com""",justify =  'left')
     lab12.pack(padx = 10,pady = 10)
     root1.mainloop()
 
@@ -90,7 +90,7 @@ def ad():#菜单“版权信息”功能
     lab21.pack(padx = 10,pady = 10)
     lab22 = tk.Label(root2,text = """小向计算器
 版本:2.0
-©2021 向璟宸 保留所有权利。""",justify =  'left')
+©2021 稗田阿柔 保留所有权利。""",justify =  'left')
     lab22.pack(padx = 10,pady = 10)
     root2.mainloop()
 
