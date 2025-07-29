@@ -1,4 +1,5 @@
-# 简单的说明
-这个计算器是我在很久以前用tkinter写的了。当时好像还得了个区一等奖的来着。<br />
-程序实现十分简单，也非常简短。<br />
-还有里面那句“版权声明”不过写着玩的罢了（<br />
+A program similar to calculator.
+Written in Python with tkinter.
+
+Any previous copyright statements in the raw code are no longer valid.
+Now it is released as open source under GPL 3.0.
